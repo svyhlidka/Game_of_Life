@@ -16,6 +16,7 @@ pulsar_blocklist = [(2,4), (2,5), (2,6), (4,2), (4,7), (5,2), (5,7),
 # for diehard, make board at least 25x25, might need to change block size
 diehard_blocklist = [(5,7), (6,7), (6,8), (10,8), (11,8), (12,8), (11,6)]
 simple_test = [(4,2), (2,3), (5,3), (2,4), (5,4), (3,5)]
+another_list = []
 
 
 class Block(Rectangle):
